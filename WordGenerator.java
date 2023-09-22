@@ -1,3 +1,5 @@
+//SOURCE: Stuart Reges and Marty Stepp at the University of Washington
+
 package assignment4;
 import java.util.Scanner; 
 import java.io.File;
